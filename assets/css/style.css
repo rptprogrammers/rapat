@@ -603,7 +603,7 @@ p {
   background: -webkit-linear-gradient(left, #43cae9 0%, #38f9d7 100%);
   background: -o-linear-gradient(left, #43cae9 0%, #38f9d7 100%);
   background: linear-gradient(to right, #43cae9 0%, #38f9d7 100%);
-  padding: 10px 0;
+  padding: 0px 0;
   position: absolute;
   top: 0;
   left: 0;
@@ -615,13 +615,13 @@ p {
   -o-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s; }
   .navbar-area .navbar-brand img {
-    max-width: 150px; }
+    max-width: 100px; }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
     .navbar-area {
-      padding: 10px 0; } }
+      padding: 0px 0; } }
   @media (max-width: 767px) {
     .navbar-area {
-      padding: 10px 0; } }
+      padding: 0px 0; } }
   .navbar-area .navbar {
     position: relative;
     padding: 0; }
